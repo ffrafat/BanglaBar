@@ -1,0 +1,164 @@
+[
+    {
+        "start_date": "2026-02-04",
+        "end_date": "2026-02-04",
+        "name": "শব-ই-বরাত",
+        "type": "Public",
+        "moon_dep": "yes",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-02-21",
+        "end_date": "2026-02-21",
+        "name": "শহিদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
+        "type": "Public",
+        "moon_dep": "no",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-03-17",
+        "end_date": "2026-03-17",
+        "name": "শব-ই-কদর",
+        "type": "Public",
+        "moon_dep": "yes",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-03-19",
+        "end_date": "2026-03-23",
+        "name": "ঈদ-উল-ফিতর এবং জুমাতুল বিদা",
+        "type": "Public",
+        "moon_dep": "yes",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-03-26",
+        "end_date": "2026-03-26",
+        "name": "স্বাধীনতা ও জাতীয় দিবস",
+        "type": "Public",
+        "moon_dep": "no",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-04-13",
+        "end_date": "2026-04-13",
+        "name": "চৈত্র সংক্রান্তি",
+        "type": "Public",
+        "moon_dep": "no",
+        "bank_only": "no",
+        "hilltracts_only": "yes"
+    },
+    {
+        "start_date": "2026-04-14",
+        "end_date": "2026-04-14",
+        "name": "নববর্ষ",
+        "type": "Public",
+        "moon_dep": "no",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-05-01",
+        "end_date": "2026-05-01",
+        "name": "মে দিবস এবং বুদ্ধ পূর্ণিমা (বৈশাখী পূর্ণিমা)",
+        "type": "Public",
+        "moon_dep": "yes",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-05-26",
+        "end_date": "2026-05-31",
+        "name": "ঈদ-উল-আযহা",
+        "type": "Public",
+        "moon_dep": "yes",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-06-26",
+        "end_date": "2026-06-26",
+        "name": "আশুরা",
+        "type": "Public",
+        "moon_dep": "yes",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-07-01",
+        "end_date": "2026-07-01",
+        "name": "ব্যাংক হলিডে",
+        "type": "Public",
+        "moon_dep": "no",
+        "bank_only": "yes",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-08-05",
+        "end_date": "2026-08-05",
+        "name": "জুলাই গণঅভ্যুত্থান দিবস",
+        "type": "Public",
+        "moon_dep": "no",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-08-26",
+        "end_date": "2026-08-26",
+        "name": "ঈদ-ই-মিলাদুন্নবী (সা.)",
+        "type": "Public",
+        "moon_dep": "yes",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-09-04",
+        "end_date": "2026-09-04",
+        "name": "জন্মাষ্টমী",
+        "type": "Public",
+        "moon_dep": "no",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-10-20",
+        "end_date": "2026-10-21",
+        "name": "দূর্গাপূজা (নবমী ও বিজয়া দশমী)",
+        "type": "Public",
+        "moon_dep": "no",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-12-16",
+        "end_date": "2026-12-16",
+        "name": "বিজয় দিবস",
+        "type": "Public",
+        "moon_dep": "no",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-12-25",
+        "end_date": "2026-12-25",
+        "name": "যিশু খ্রিষ্টের জন্মদিন (বড় দিন)",
+        "type": "Public",
+        "moon_dep": "no",
+        "bank_only": "no",
+        "hilltracts_only": "no"
+    },
+    {
+        "start_date": "2026-12-31",
+        "end_date": "2026-12-31",
+        "name": "ব্যাংক হলিডে",
+        "type": "Public",
+        "moon_dep": "no",
+        "bank_only": "yes",
+        "hilltracts_only": "no"
+    }
+]
