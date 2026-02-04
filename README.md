@@ -1,8 +1,20 @@
 # 🇧🇩 BanglaBar
 
+<p align="center">
+  <img src="AppIcon.png" alt="BanglaBar Icon" width="128">
+</p>
+
 **আপনার ম্যাকের মেনু বারে বাংলার দিনপঞ্জি।**
 
 A native, lightweight macOS app that brings the **Revised Bangla Calendar** right to your menu bar. No more guessing what Bengali date is today. Built with love in Dhaka for the global Bengali community.
+
+<p align="center">
+  <a href="https://github.com/ffrafat/BanglaBar/releases">
+    <img src="download-badge.png" alt="Download BanglaBar" height="60">
+  </a>
+</p>
+
+![BanglaBar Screenshot](Screenshot.png)
 
 ## ✨ Features (বৈশিষ্ট্য)
 
